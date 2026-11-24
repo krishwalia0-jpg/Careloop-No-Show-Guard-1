@@ -1,0 +1,11 @@
+note_id,appointment_id,root_cause,confidence,summary,recommended_action,validation_status,raw_response
+N001,A0872,forgot_or_no_reminder,,Patient reports no reminder and forgetting the visit.,"Confirm contact details, send reminder, offer rebooking.",manual_review_not_api,
+N002,A0897,distance_or_transport,,Transport unavailable and clinic too far away.,Offer nearer clinic or transport guidance.,manual_review_not_api,
+N003,A0526,cost_or_fee,,Patient says consultation fee was unaffordable this month.,Explain fees and eligible concessions.,manual_review_not_api,
+N004,A0926,other,,No note recorded.,Re-call patient.,manual_review_not_api,
+N005,A0534,illness_or_emergency,,High fever and body aches prevented attendance.,Offer appointment after recovery.,manual_review_not_api,
+N006,A0507,work_or_schedule,,Urgent work meeting prevented attendance.,Offer evening appointment.,manual_review_not_api,
+N007,A0333,forgot_or_no_reminder,,Patient forgot and says no SMS arrived.,Verify SMS delivery and offer rebooking.,manual_review_not_api,
+N008,A0222,distance_or_transport,,Bus strike and lack of transport prevented travel.,Offer alternate clinic or appointment date.,manual_review_not_api,
+N009,A0977,other,,Patient unreachable; reason for absence unknown.,Verify phone number and retry contact.,manual_review_not_api,
+N010,A0596,work_or_schedule,,Factory shift change prevented taking leave.,Offer Saturday appointment.,manual_review_not_api,
